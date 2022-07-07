@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./download.png" alt="Image of Ideas" align="center" >
+</p>
+
 # أفكار
   
 هنا عصف ذهني من الأفكار لبناءها كودًا برمجيًأ.
